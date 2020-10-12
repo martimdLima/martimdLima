@@ -22,6 +22,7 @@
 
 <br><br>
 
+<p>
 ### Programming Languages  :rocket:
 |<img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/java.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/js.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/bash.png" width=60> |
 |:---:|:---:|:---:|
@@ -38,6 +39,21 @@
 ### Tools :fire:
 |<img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/manjaro.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/vim.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/emacs.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/tmux.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/vscode.png" width=60> | 
 |:---:|:---:|:---:|:---:|:---:|
+</p>
+
+<p>
+<a href="https://github.com/martimdLima/github-stats">
+   
+![](https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg)
+
+</a>
+
+
+</p>
+languages.svg
+overview.svg
+
 
 <div/>
 
