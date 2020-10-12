@@ -11,3 +11,6 @@
 - 💬 I'm an archeologist turned software developer, learming my way through a brand new field. I'm an open source enthusiast and i love to learn and explore new fields.
 
 - 🌱 I’m currently learning Docker and Kubernetes
+
+
+![visitors](https://visitor-badge.glitch.me/badge?martimdLima=martimdLima)
