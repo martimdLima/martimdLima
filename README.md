@@ -20,7 +20,7 @@
     I'm <a href="https://sourcerer.io/mdlima0/">Martim Lima</a> an archeologist turned aspiring software developer, learming my way through a brand new field. and aspiring software developer :computer. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Currently I'm learning Docker and Kubernetes :bulb:
 </samp>
 
-<br>
+<br><br>
 
 ### Programming Languages  :rocket:
 |<img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/java.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/js.png" width=60> | <img src="https://github.com/martimdLima/martimdLima/blob/main/resources/techs/bash.png" width=60> |
