@@ -41,25 +41,21 @@
 |:---:|:---:|:---:|:---:|:---:|
 </p>
 
+<br><br>
+
 <p>
 <a href="https://github.com/martimdLima/github-stats">
    
-![](https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg)
+![languages](https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg)
+![overview](https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg)
 
 </a>
-
-
 </p>
-languages.svg
-overview.svg
-
 
 <div/>
 
 <br><br>
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=martimdLima.martimdLima) -->
-
 
 ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
