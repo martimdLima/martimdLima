@@ -1,0 +1,211 @@
+{
+  "main": {
+    "name": "Martim Lima",
+    "occupation": "Junior Software Developer",
+    "description": "An aspiring archeologist turned programmer",
+    "image": "profilepic.jpg",
+    "bio": "Once an aspiring archeologist who loved digging for archeological remains and now I'm trying to apply what I learned from archeology in my new found passion, Coding. I'm very calm and relaxed, I'm focused, and I can handle stress well. I'm also a very curious person, avid for knowledge. I find fundamental to try to better myself daily by continually learning new things. Learning Programming was a big personal challenge that is leading me to be a top tier Software Developer. The one you are looking for. So if you ever need someone to pick up that dusty code you have and dig the bugs out of it, you know who to call.",
+    "contactmessage": "If you wanna get in touch with me, please use one the following contacts",
+    "email": "martim.d.lima@protonmail.com",
+    "phone": "+351 915552081",
+    "address": {
+      "country": "Portugal",
+      "city": "OPorto"
+    },
+    "website": "",
+    "resumedownload": "https://gitlab.com/mdLima0/docs/-/raw/master/cv/Martim_Lima_CV_05_05_20.pdf?inline=false",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/martimdlima",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "gitlab",
+        "url": "https://gitlab.com/mdLima0/",
+        "className": "fa fa-gitlab"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mdLima0/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "martim.d.lima_1",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Academia de Código",
+        "degree": "Immersive FullStack Programming Bootcamp",
+        "graduated": "August 2019",
+        "description": "A 14-Week Intensive && Immersive FullStack Programming Bootcamp"
+      },
+      {
+        "school": "Universidade do Minho",
+        "degree": "Bachelor in Archeology & Post-Graduation in Archeology",
+        "graduated": "Jully 2016 & Jully 2017",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Armis Group",
+        "title": "Junior Software Developer",
+        "years": "September 2019 - June 2020",
+        "description": ""
+      },
+      {
+        "company": "Uatrónica",
+        "title": "Electornic Test Technician",
+        "years": "March 2007 - February 2010",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "javascript",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "55%"
+      },
+      {
+        "name": "Spring Framework",
+        "level": "75%"
+      },
+      {
+        "name": "OOP",
+        "level": "65%"
+      },
+      {
+        "name": "Relational Databases",
+        "level": "70%"
+      },
+      {
+        "name": "Non-Relational Databases",
+        "level": "70%"
+      },
+      {
+        "name": "Node.Js",
+        "level": "75%"
+      },
+      {
+        "name": "Angular2+",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AC Course Projects",
+        "category": "A repository for the projects developed during the Academia de Codigo Bootcamp",
+        "image": "ac.jpg",
+        "url": "https://gitlab.com/mdLima0/academia-de-codigo-course-projects"
+      },
+      {
+        "title": "Angular10 Course",
+        "category": "A repository with all the code developed during the Angular10 - The Complete Guide Course",
+        "image": "angular.jpg",
+        "url": "https://gitlab.com/mdLima0/academia-de-codigo-course-projects"
+      },
+      {
+        "title": "Node.js Course",
+        "category": "A repository with all the code developed during the Node.js - The Complete Guide Course",
+        "image": "node-js.jpg",
+        "url": "https://gitlab.com/mdLima0/nodejs-the-complete-guide-2020"
+      },
+      {
+        "title": "MongoDB Course",
+        "category": "A repository with all the code developed during the MongoDB - The Complete Guide Course",
+        "image": "mongodb.jpg",
+        "url": "https://gitlab.com/mdLima0/nodejs-the-complete-guide-2020"
+      },
+      {
+        "title": "Dot Files",
+        "category": "A repository containing all the configuration files for my Linux Manjaro system",
+        "image": "gnu.jpg",
+        "url": "https://gitlab.com/mdLima0/dotfiles"
+      }
+    ]
+  },
+  "projects": {
+    "projects": [
+      {
+        "name": "MongoDb - The Complete Guide",
+        "date": "Oct 2020",
+        "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!.",
+        "technologies": "MongoDB, MongoCompass, MongoAtlas"
+      },
+      {
+        "name": "Online Resume",
+        "date": "Oct 2020",
+        "description": "A coding challenge: During a 24h Hackaton, develop a product inspired by a song, “Leave me alone” by NF.",
+        "technologies": "Node.js, React, HTML5, CSS, Javascript, Express.js, React-ga, jquery"
+      },
+      {
+        "name": "Node.js - The Complete Guide",
+        "date": "Sept 2020",
+        "description": "Complete guide about Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more.",
+        "technologies": "Node.js, Javascript, Typescript, HTML, CSS, Express.js, Nodemon, SQL, MariaDB, MariaDb/Node.Js Connector, Pug, Express-Handlebars, Ejs, Sequelize, NoSQL, MongoDB, Mongoose, express-session, connect-mongodb-session, bcryptjs, csurf, connect-flash, nodemailer, express-validator, multer, pdfkit, stripe, jsonwebtoken, socket.io, socket.io-client, graphql, express-graphql, helmet, compression, morgan, mocha, chai, sinon, deno"
+      },
+      {
+        "name": "Angular 9 - The Complete Guide",
+        "date": "Aug 2020",
+        "description": "Master Angular 10 (formerly 'Angular 2') and build awesome, reactive web apps with the successor of Angular.js",
+        "technologies": "Angular10"
+      },
+      {
+        "name": "Scatex Project",
+        "date": "Nov 2019 - June 2020",
+        "description": "This project is being developed for Efacec with the collaboration of their team for the purpose of developing an application that manage and maintain all the equipment that Efacec develops and sells to their clients. This application also has the capability of generating several reports and aggregating the data collected from the equipment into forms for the client.",
+        "technologies": "Java 8, Java Swint, XML, SVN"
+      },
+      {
+        "name": "Spring and Hibernate Course",
+        "date": "Dec 2019",
+        "description": "A coding challenge: During a 24h Hackaton, develop a product inspired by a song, “Leave me alone” by NF.",
+        "technologies": "Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate."
+      },
+      {
+        "name": "LeaveApp",
+        "date": "Nov 2019 - February 2020",
+        "description": "This was an internal project with the objective of developing a webservice in which the employees of the company could book leave or sick days. This project had a couple key requirements. The login module of the project should log the user through Armis Active Directory, if the user was already log it should recognize the user and bypass the login and if the user hadn’t logging yet it should present the Microsoft login page so the user could log in the internal network. The application should be capable of handling default approval flows, according to the internal structure of Armis and custom approval flows to account for fringe cases. This web service should also be integrated with the internal network of Armis.",
+        "technologies": "Angular 6/7, Spring Framework, Spring Data, Spring Security, JPA, Typescript, Web API 2.0, SQL Server 2012, Oracle SQL, Postman, batch scripting, Azure AD, Hibernate, Maven, Tomcat, HTML, CSS, REST, Model View Controller Architecture (MVC)"
+      },
+      {
+        "name": "TeachIN' - Dynamic Attitude",
+        "date": "Aug 2019",
+        "description": "A coding challenge: During a 24h Hackaton, develop a product inspired by a song, “Leave me alone” by NF.",
+        "technologies": "Agile, SCRUM, REST, Maven, JPA, Spring MVC, Java, Hibernate, Javascript, JQuery, Ajax, HTML 5, CSS 3."
+      },
+      {
+        "name": "Black <AC> Jack",
+        "date": "Jul 2019",
+        "description": "The objective was to develop a multiplayer game in 48h, which made use of Promp-view library, that could be accessed through Netcat and could be played using only the Terminal. The challenge of the project was properly synchronizing the Threads.",
+        "technologies": "Java, MacOS, IntelliJ, Netcat, Git, Agile"
+      },
+      {
+        "name": "Code Bytes Game",
+        "date": "jun 2019",
+        "description": "A one-week group project developed after classes in our “spare-time” in the first month of Bootcamp",
+        "technologies": "Java, SimpleGfx, IntelliJ, Mac OS, Windows, Ant, Photoshop, Microsoft PowerPoint."
+      }
+    ]
+  }
+}
