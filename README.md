@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning Docker and Kubernetes
 
 
-![visitors](https://visitor-badge.glitch.me/badge?martimdLima=martimdLima)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=martimdLima.martimdLima)
