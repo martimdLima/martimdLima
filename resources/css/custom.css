@@ -1,12 +1,11 @@
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+.float-container {
+  border: 3px solid #fff;
+  padding: 20px;
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+.float-child {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+}  
