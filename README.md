@@ -67,7 +67,11 @@
 <h1 align="center">Hi 👋, I'm Martim Lima</h1>
 <h3 align="center">    I'm <a href="https://sourcerer.io/mdlima0/">Martim Lima</a> an archeologist turned aspiring software developer, learming my way through a brand new field. and aspiring software developer :computer. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Currently I'm learning Docker and Kubernetes :bulb:</h3>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martimdlima&label=Profile%20views&color=0e75b6&style=flat" alt="martimdlima" /> </p>
+
+<br>
 
 - 🔭 I’m currently working on [Docker Mastery: wKubernetes + Swarm from a Docker Captain](https://gitlab.com/mdLima0/docker-mastery-with-kubernetes-and-swarm)
 
