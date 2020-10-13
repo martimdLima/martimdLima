@@ -61,6 +61,9 @@
 
 <!--![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
 
+
+<link rel="stylesheet" type="text/css" href="https://github.com/martimdLima/martimdLima/blob/main/resources/custom.css">
+
 <h1 align="center">Hi 👋, I'm Martim Lima</h1>
 <h3 align="center">    I'm <a href="https://sourcerer.io/mdlima0/">Martim Lima</a> an archeologist turned aspiring software developer, learming my way through a brand new field. and aspiring software developer :computer. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Currently I'm learning Docker and Kubernetes :bulb:</h3>
 
