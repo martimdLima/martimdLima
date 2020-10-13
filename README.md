@@ -108,7 +108,10 @@
   </tr>
 -->
 
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=martimdLima.martimdLima) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
+<!--![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /></p>
+<p><img align="left" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" /></p>
+
+<p><img align="center" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
