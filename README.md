@@ -95,7 +95,8 @@
 
 <br><br>
 
-<p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /></p>
 
