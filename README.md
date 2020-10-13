@@ -107,21 +107,10 @@
   </div>
 </div>-->
 
-<div class="float-container">
-
-  <div class="float-child">
-    <div>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
-    </div>
-  </div>
-  
-  <div class="float-child">
-    <div>
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /></p>
-    </div>
-  </div>
-  
-</div>
+  <tr>
+    <td align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact"/></td>
+    <td align="right"><img src=src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true"/></td>
+  </tr>
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
