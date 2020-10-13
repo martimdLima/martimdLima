@@ -107,7 +107,24 @@
   </div>
 </div>-->
 
+<div class="float-container">
+
+  <div class="float-child">
+    <div>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
+    </div>
+  </div>
+  
+  <div class="float-child">
+    <div>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /></p>
+    </div>
+  </div>
+  
+</div>
+
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact" alt="martimdlima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true" alt="martimdlima" /></p>
-
+-->
