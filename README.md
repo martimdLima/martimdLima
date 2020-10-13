@@ -109,7 +109,7 @@
 
   <tr>
     <td align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimdlima&layout=compact"/></td>
-    <td align="right"><img src=src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=martimdlima&show_icons=true"/></td>
   </tr>
 
 <!--
