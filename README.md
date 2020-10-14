@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **martim.d.lima@protonmail.com**
 
-- 📄 Know about my experiences [lima-resume.herokuapp.com/](lima-resume.herokuapp.com/)
+- 📄 Know about my experiences [mdlima](https://mdlima-resume.herokuapp.com)
 
 - ⚡ Fun fact **Addicted to music and films**
 
