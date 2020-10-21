@@ -38,7 +38,7 @@
 
 <br><br>
 
-### :zap: Recent Activity
+<!--### :zap: Recent Activity-->
 
 <!--START_SECTION:activity-->
 
