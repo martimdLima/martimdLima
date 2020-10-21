@@ -42,6 +42,8 @@
 
 <!--START_SECTION:activity-->
 
+<br><br>
+
 
 <tr>
 <p><img align="left" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" /></p>
