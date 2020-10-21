@@ -38,6 +38,10 @@
 
 <br><br>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 
 <tr>
 <p><img align="left" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" /></p>
