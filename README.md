@@ -1,3 +1,31 @@
+<head>
+    <style>
+      .container {
+      align-items: center;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: auto;
+
+  box-sizing: border-box;
+  width: 400px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background: rgba(114, 186, 94, 0.05);
+  border: 2px dashed rgba(114, 186, 94, 0.35);
+}
+
+.item {
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 213, 70, 0.4);
+  border: 2px dashed rgba(236, 198, 48, 0.5);
+}
+    </style>
+</head>
+
 <h1 align="center">Hi 👋, I'm Martim Lima</h1>
 <h3 align="center">I'm an archeologist turned aspiring software developer, learming my way through a brand new field. and aspiring software developer :computer. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Currently I'm learning Docker and Kubernetes</h3>
 
@@ -49,10 +77,24 @@
 </tr>-->
 
 
+<!--<div>
+  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>-->
+
+ <!--<img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+</div>-->
+
+<!--<div style="display: grid; grid-template-columns: 100px 100px 100px; grid-template-rows: auto; justify-items: center;">
+  <div style="box-sizing: border-box; width: 50px; height: 50px;">
+     <img src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
+  </div>
+  <div style="box-sizing: border-box; width: 50px; height: 50px;">
+    <img src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+  </div>
+</div>-->
+
 <div>
-  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
-
-  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+  <p>
+    <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
+     <img style="float: right; margin: 0px 0px 15px 15px;" height="195px" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+  </p>
 </div>
-
-
