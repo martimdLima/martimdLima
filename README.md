@@ -49,7 +49,7 @@
 </tr>-->
 
 <tr>
-<p><img align="left" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/></p>
+<p><img align="center" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/></p>
   
 <p><img align="center" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" /></p>
 </tr>
