@@ -43,8 +43,8 @@
 
 
 <div>
-<p><img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" />
-<img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
+<p><img style="float: right; margin: 0px 0px 15px 15px;" src="https://raw.githubusercontent.com/martimdLima/github-stats/e362345058f9a2a0b201c7d46b1609f0721951c5/generated/languages.svg" alt="martimdlima" />
+<img style="float: right; margin: 0px 0px 15px 15px;" src="https://raw.githubusercontent.com/martimdLima/github-stats/e362345058f9a2a0b201c7d46b1609f0721951c5/generated/overview.svg" alt="martimdlima" /></p>
 </div>
 
 <!--<div>
