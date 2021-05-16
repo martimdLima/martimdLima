@@ -48,25 +48,9 @@
 <!--<p><img align="center" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
 </tr>-->
 
-
-<!--<div>
-  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>-->
-
- <!--<img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
-</div>-->
-
-<!--<div style="display: grid; grid-template-columns: 100px 100px 100px; grid-template-rows: auto; justify-items: center;">
-  <div style="box-sizing: border-box; width: 50px; height: 50px;">
-     <img src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
-  </div>
-  <div style="box-sizing: border-box; width: 50px; height: 50px;">
-    <img src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
-  </div>
-</div>-->
-
 <div>
   <p>
-    <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
-     <img style="float: right; margin: 0px 0px 15px 15px;" height="195px" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+    <img align="left" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
+     <img align="center" height="195px" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
   </p>
 </div>
