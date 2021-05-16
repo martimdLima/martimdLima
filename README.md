@@ -48,9 +48,11 @@
 <!--<p><img align="center" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
 </tr>-->
 
-<tr>
-<p><img align="center" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/></p>
-  
-<p><img align="center" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" /></p>
-</tr>
+
+<div>
+  <img style="display: block;  margin-left: auto; margin-right: auto;" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
+
+  <img style="display: block;  margin-left: auto; margin-right: auto;" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+</div>
+
 
