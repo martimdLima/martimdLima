@@ -50,9 +50,9 @@
 
 
 <div>
-  <img style="display: block; width: 75%; margin-left: auto; margin-right: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
+  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
 
-  <img style="display: block; width: 75%; margin-left: auto; margin-right: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
+  <img style="margin: auto;" height="215" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
 </div>
 
 
