@@ -42,15 +42,14 @@
 <br><br>
 
 
-<!--<tr>
-<p><img align="left" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" /></p>-->
-
-<!--<p><img align="center" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
-</tr>-->
-
 <div>
+<p><img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/martimdLima/github-stats/blob/master/generated/languages.svg" alt="martimdlima" />
+<img style="float: right; margin: 0px 0px 15px 15px;" src="https://github.com/martimdLima/github-stats/blob/master/generated/overview.svg" alt="martimdlima" /></p>
+</div>
+
+<!--<div>
   <p>
     <img style="float: right; margin: 0px 0px 15px 15px;" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api?username=martimdLima&count_private=true&include_all_commits&show_icons=true&theme=vue-dark" alt="martimdlima"/>
      <img style="float: right; margin: 0px 0px 15px 15px;" height="195px" src="https://github-readme-stats-fmu8ozvbo-martimdlima.vercel.app/api/top-langs/?username=martimdLima&langs_count=10&layout=compact&theme=vue-dark" alt="martimdlima" />
   </p>
-</div>
+</div>-->
