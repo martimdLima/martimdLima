@@ -4,12 +4,18 @@
 <a href="https://github.com/martimdLima" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://gitlab.com/mdLima0" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/martimdlima" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/mdlima" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://www.hackerrank.com/martim_d_lima" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%1BA94C.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martimdlima&label=Profile%20views&color=0e75b6&style=flat" alt="martimdlima" /> </p>
 
 
