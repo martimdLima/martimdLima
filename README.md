@@ -31,7 +31,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 🌱 I’m currently learning **Next.js course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/martimdLima](https://github.com/martimdLima)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/martimdLima](https://github.com/martimdLima)-->
 
 - 💬 Ask me about **Java, Spring, Javascript, Node.js, React**
 
