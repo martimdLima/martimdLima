@@ -27,9 +27,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 
-- 🔭 I’m currently working on [Next.js course](https://github.com/martimdLima/Nextjs-and-React---The-Complete-Guide)
+- 🔭 I’m currently working on [Next.js course](https://github.com/martimdLima/Nextjs-and-React---The-Complete-Guide) and [Docker and Kubernetes course](https://github.com/martimdLima/docker-and-kubernetes-the-practical-guide) 
 
-- 🌱 I’m currently learning **Next.js course**
+- 🌱 I’m currently learning **Next.js Course** and **Docker and Kubernetes Course**
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/martimdLima](https://github.com/martimdLima)-->
 
